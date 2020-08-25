@@ -49,9 +49,9 @@ make README.md
 ## Contributors
  - [Rakesh Yadav](https://github.com/gfobiyatechnical)
 
- - [Manish Sharma]()
+ - [Manish Sharma](https://github.com/manish2407)
  
- - [Shivam Yadav]()
+ - [Shivam Yadav](https://github.com/shivamyadav37)
 
 
 
