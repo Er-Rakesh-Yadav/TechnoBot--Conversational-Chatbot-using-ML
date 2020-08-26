@@ -54,6 +54,8 @@ make README.md
  
  - [Shivam Yadav](https://github.com/shivamyadav37)
  
+    ![](TechnoBot/img/cebe7a632ffc16eb9fb3fecb168cb6ab.gif)
+ 
  
 
 
