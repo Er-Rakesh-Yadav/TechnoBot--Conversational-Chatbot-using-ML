@@ -60,7 +60,7 @@ make README.md
 
 
 ## Mentor 
-[Mr. Pankaj Sharma]( )
+[Mr. Mandeep Sir]( )
 
 
    ![](TechnoBot/img/funny_animation.gif)
