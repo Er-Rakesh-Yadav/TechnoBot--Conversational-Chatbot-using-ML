@@ -56,9 +56,9 @@ Frame(appRoot, bg="#040319", height=20, borderwidth=2,
 # ---- Text-Field Framing  ----
 frame = Frame(appRoot, bg="#A3C3C5")
 scrollBar = Scrollbar(frame, background="#A3C3C5")
-msgsTextField = Listbox(frame, width=90, height=20, bg="#CCDBDC", yscrollcommand=scrollBar.set)
+msgsTextField = Listbox(frame, width=98, height=20, bg="#CCDBDC", yscrollcommand=scrollBar.set)
 scrollBar.pack(side=RIGHT, fill=Y)
-msgsTextField.pack(side=LEFT, fill=BOTH, pady=5)
+msgsTextField.pack(side=LEFT, fill=BOTH, pady=3)
 frame.pack()
 
 # ----- User-Entry Field and Send-Button Labeling -----------
