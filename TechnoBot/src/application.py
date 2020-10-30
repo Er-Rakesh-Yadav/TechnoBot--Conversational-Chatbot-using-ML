@@ -9,12 +9,17 @@ from tkinter import *
 from TechnoBot.src.technobot import chatbot
 
 appRoot = Tk()
+p1 = PhotoImage(file='../img/chatbot icon.png')
 
+# Setting icon of master window
+appRoot.iconphoto(False, p1)
 # -- main window ----
 appRoot.title("Technobot")
 appRoot.geometry("720x552")
 appRoot.minsize(400, 300)
-appRoot.maxsize(800, 680)
+
+
+# appRoot.maxsize(800, 680)
 
 
 # ------- ***** user-text handling function .i.e, sendBtn()
