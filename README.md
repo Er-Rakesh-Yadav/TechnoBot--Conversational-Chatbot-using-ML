@@ -57,7 +57,6 @@ make README.md
     ![](TechnoBot/img/cebe7a632ffc16eb9fb3fecb168cb6ab.gif)
  
 
-
 ## Mentor 
 ![Mr. Mandeep Sir](https://github.com/Mandeep-Singh7696)
 
