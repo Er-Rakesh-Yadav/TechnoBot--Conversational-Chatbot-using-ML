@@ -9,7 +9,6 @@ from chatterbot.trainers import ListTrainer
 
 # Create a new chat-bot named as TechnoBot
 chatbot = ChatBot('TechnoBot')
-
 trainer = ListTrainer(chatbot)
 
 # using file-handling concept to accessing training-data
