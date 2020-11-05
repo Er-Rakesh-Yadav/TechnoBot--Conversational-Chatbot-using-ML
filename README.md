@@ -60,7 +60,7 @@ make README.md
 
 
 ## Mentor 
-[Mr. Mandeep Sir]((https://github.com/Mandeep-Singh7696)
+[Mr. Mandeep Sir](https://github.com/Mandeep-Singh7696)
 
 
    ![](TechnoBot/img/funny_animation.gif)
