@@ -46,7 +46,8 @@ label01 = Label(frame01, padx=10, text=" TECHNOBOT  ",
 label01.pack(side=TOP, fill=X)
 
 # -- chatbot-Image Labelling
-photo = PhotoImage(file='../img/icon chatbot image.png')
+# Image is placed here
+photo = PhotoImage(file='../img/mainpic.png') # change here to change image
 photolabel = Label(image=photo, borderwidth=3, bg="#040310", padx=20, pady=100,
                    relief=GROOVE, height=100, width=120).pack(anchor="nw", fill=X)
 frameImg = Frame(appRoot, bg="#040319", height=5, borderwidth=2,
