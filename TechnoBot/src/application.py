@@ -39,22 +39,28 @@ def auto_invoke_enter(event):
 appRoot.bind('<Return>', auto_invoke_enter)
 
 # -- TOP-frame of appRoot
-frame01 = Frame(appRoot, pady=5, bg="#800000", borderwidth=3)
+frame01 = Frame(appRoot, pady=5, bg="#36094B", borderwidth=3)
 frame01.pack(anchor="nw", fill=X)
 label01 = Label(frame01, padx=10, text=" TECHNOBOT  ",
-                font="ALGERIAN 14 bold", bg="#800080", fg="white")
+                font="ALGERIAN 14 bold", bg="#331940", fg="white")
 label01.pack(side=TOP, fill=X)
 
 # -- chatbot-Image Labelling
 photo = PhotoImage(file='../img/icon.png')
-photolabel = Label(image=photo, borderwidth=3, bg="#040310", padx=20, pady=100,
-                   relief=GROOVE, height=100, width=120).pack(anchor="nw", fill=X)
+photolabel = Label(image=photo, borderwidth=0, bg="#36094B", padx=20, pady=100,
+                   relief=SUNKEN, height=100, width=120).pack(anchor="nw", fill=X)
 frameImg = Frame(appRoot, bg="#040319", height=5, borderwidth=2,
                  relief=SUNKEN).pack(side=TOP, fill=X)
 
+# ----- left-Frame   --------
+Frame(appRoot, bg="#091156", width=25, borderwidth=0,
+      relief=GROOVE).pack(side=LEFT, fill=Y)
+# ----- right-Frame   --------
+Frame(appRoot, bg="#040319", width=10, borderwidth=0,
+      relief=SUNKEN).pack(side=RIGHT, fill=Y)
 # ----- bottom-Frame   --------
-Frame(appRoot, bg="#040319", height=20, borderwidth=2,
-      relief=RAISED).pack(side=BOTTOM, fill=X)
+Frame(appRoot, bg="#040319", height=20, borderwidth=0,
+      relief=SUNKEN).pack(side=BOTTOM, fill=X)
 
 # ---- Text-Field Framing  ----
 frame = Frame(appRoot, bg="#0000A0")
@@ -67,7 +73,7 @@ frame.pack()
 # ----- User-Entry Field and Send-Button Labeling -----------
 textField = Entry(appRoot, width=40, borderwidth=4, font="Verdana 18 ", bg="#D7DADA")
 textField.pack(side=LEFT, anchor="s")
-textBtn = Button(appRoot, text="Ask Me", width=8, font="Georgia 12", bg="#000000", fg="white",
+textBtn = Button(appRoot, text="Ask Me", width=8, font="Georgia 12", bg="#560A3E", fg="white",
                  command=sendbtn)
 textBtn.pack(side=RIGHT, anchor="s")
 
