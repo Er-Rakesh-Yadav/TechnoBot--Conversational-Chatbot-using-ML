@@ -2,6 +2,8 @@ hi
 hi there !
 Hello!
 Hello!! How can I help you?
+hola
+Hello
 what is your name?
 my name is TechnoBot.
 can you help me?
