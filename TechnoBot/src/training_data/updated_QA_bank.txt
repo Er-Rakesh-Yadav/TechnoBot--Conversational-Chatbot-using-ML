@@ -2,6 +2,8 @@ hi
 hi there !
 Hello!
 Hello!! How can I help you?
+hola
+Hello
 what is your name?
 my name is TechnoBot.
 can you help me?
@@ -11,7 +13,7 @@ I am great!, how are you?
 have you eaten something?
 No,I don't eat and you?
 Do you know what is computer?
-Computer is an electronic device that helps human to make work easy and many more..
+an electronic machine that can store, find and arrange information, calculate amounts and control other machines
 sorry
 sorry I didn't understand... please ask again
 please help!
@@ -65,5 +67,34 @@ who is your favourite actor
 I have many favourites
 what is your favourite movie
 I like Terminator Series
+what is python language
+Python is an interpreted, high-level and general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant whitespace.
+what is java
+Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
+what is sql
+SQL is a domain-specific language used in programming and designed for managing data held in a relational database management system, or for stream processing in a relational data stream management system
+what is mongodb
+MongoDB is a cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License.
+where is gla university
+17km Stone, NH-2, Mathura-Delhi Road Mathura, Chaumuhan, Uttar Pradesh 281406
+what is facebook
+Facebook, Inc. is an American social media conglomerate corporation based in Menlo Park, California.
+what is whatsapp
+WhatsApp Messenger, or simply WhatsApp, is an American freeware, cross-platform messaging and Voice over IP service owned by Facebook, Inc. It allows users to send text messages and voice messages, make voice and video calls, and share images, documents, user locations, and other media.
+who is best
+Richard P Feynman
+what is google
+Google, LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, a search engine, cloud computing, software, and hardware
+do you love anime
+Yes , Sometimes they make sense
+tell me a good quote
+Talk is Cheap , Show me the Code
+who is linus torvalds
+Linus Torvalds created the Linux kernel and oversaw open source development of the widely-used Linux operating system. Torvalds was born on December 28, 1969 in Helsinki, Finland.
+windows or linux
+Linux for Life
+are you bot
+Are you really a Human ?
+
 
 
