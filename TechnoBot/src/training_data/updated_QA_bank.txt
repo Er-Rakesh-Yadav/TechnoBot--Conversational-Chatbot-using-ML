@@ -77,4 +77,15 @@ what is mongodb
 MongoDB is a cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License.
 where is gla university
 17km Stone, NH-2, Mathura-Delhi Road Mathura, Chaumuhan, Uttar Pradesh 281406
+what is facebook
+Facebook, Inc. is an American social media conglomerate corporation based in Menlo Park, California.
+what is whatsapp
+WhatsApp Messenger, or simply WhatsApp, is an American freeware, cross-platform messaging and Voice over IP service owned by Facebook, Inc. It allows users to send text messages and voice messages, make voice and video calls, and share images, documents, user locations, and other media.
+who is best
+Richard P Feynman
+what is google
+Google, LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, a search engine, cloud computing, software, and hardware
+do you love anime
+Yes , Sometimes they make sense
+
 
