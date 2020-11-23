@@ -69,5 +69,9 @@ what is your favourite movie
 I like Terminator Series
 what is python language
 Python is an interpreted, high-level and general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant whitespace.
+what is java
+Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
+what is sql
+SQL is a domain-specific language used in programming and designed for managing data held in a relational database management system, or for stream processing in a relational data stream management system
 
 
