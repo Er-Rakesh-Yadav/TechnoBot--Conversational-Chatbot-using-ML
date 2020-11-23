@@ -12,8 +12,6 @@ awesome python builtin libraries  and coding efforts.
 The smooth UI makes it effortless to create and train conversations to the bot and it continuously gets smarter as it learns from
 conversations it has with people.
 
-You don’t need to be an expert at artificial intelligence and machine learning to create an awesome chatbot that has AI capabilities but you must be familiar with some cool python's libraries.
-With this mini-project you can create an AI and ML powered chatting application for real-time conversation.
 
 ## Installation
    ![](TechnoBot/img/homepage-hero-team.gif)
