@@ -11,6 +11,7 @@ Additionally, the machine-learning nature of ChatterBot allows an agent instance
 knowledge of possible responses as it interacts with humans and other sources of informative data.
 
 How ChatterBot Works
+
 ChatterBot is a Python library designed to make it easy to create software that can engage in conversation.
 
 An untrained instance of ChatterBot starts off with no knowledge of how to communicate.
