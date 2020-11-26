@@ -58,3 +58,5 @@ make README.md
 ## Mentor 
 ![Mr. Mandeep Sir](https://github.com/Mandeep-Singh7696)
 
+- [Project Report](https://docs.google.com/document/d/1bezWL9Bu9HM6mWgaExi8OICC8Jc0KeWVLQXjx2jIPd0/edit?ts=5fbfa178#)
+
