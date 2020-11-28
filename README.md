@@ -6,14 +6,12 @@ Official Repository for our Mini Project
 
 ### TECHNOBOT : Conversational chatbot built in Python 
 
-Building a intelligent-chatbot can sound daunting, but it’s totally doable. TECHNOBOT is the ML  and AI powered conversational
- dialog interface project built in Python. With this tool, it’s easy to create Natural Language conversational scenarios with some
-  awesome python builtin libraries  and coding efforts.
+Building a intelligent-chatbot can sound daunting, but it’s totally doable. TECHNOBOT is the ML  powered conversational
+dialog interface project built in Python. With this tool, it’s easy to create Natural Language conversational scenarios with some
+awesome python builtin libraries  and coding efforts.
 The smooth UI makes it effortless to create and train conversations to the bot and it continuously gets smarter as it learns from
- conversations it has with people.
+conversations it has with people.
 
-You don’t need to be an expert at artificial intelligence and machine learning to create an awesome chatbot that has AI capabilities but you must be familiar with some cool python's libraries.
-With this mini-project you can create an AI and ML powered chatting application for real-time conversation.
 
 ## Installation
    ![](TechnoBot/img/homepage-hero-team.gif)
@@ -59,4 +57,6 @@ make README.md
 
 ## Mentor 
 ![Mr. Mandeep Sir](https://github.com/Mandeep-Singh7696)
+
+- [Project Report](https://docs.google.com/document/d/1bezWL9Bu9HM6mWgaExi8OICC8Jc0KeWVLQXjx2jIPd0/edit?ts=5fbfa178#)
 
