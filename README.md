@@ -59,4 +59,15 @@ make README.md
 ![Mr. Mandeep Sir](https://github.com/Mandeep-Singh7696)
 
 - [Project Report](https://docs.google.com/document/d/1bezWL9Bu9HM6mWgaExi8OICC8Jc0KeWVLQXjx2jIPd0/edit?ts=5fbfa178#)
-
+<hr><hr>
+<table>
+<h3><u>Screenshots</u></h3>
+<tr>
+<td><img src="TechnoBot/img/screensorts/Technobot%20updated%20UI.PNG"></td>
+<td><img src="TechnoBot/img/screensorts/Technobot.PNG"></td>
+</tr>
+<tr>
+<td><img src="TechnoBot/img/screensorts/Technobot%20hi.PNG"></td>
+<td><img src="TechnoBot/img/screensorts/Technobot%20name.PNG"></td>
+</tr>
+</table>

@@ -9,9 +9,9 @@ from tkinter import *
 from TechnoBot.src.technobot import chatbot
 
 appRoot = Tk()
-icon_photo = PhotoImage(file='../img/chatbot icon.png')
 
 # Setting icon of master window
+icon_photo = PhotoImage(file='../img/chatbot icon.png')
 appRoot.iconphoto(False, icon_photo)
 # -- main window ----
 appRoot.title("Technobot")
@@ -65,9 +65,16 @@ Frame(appRoot, bg="#040319", height=20, borderwidth=0,
 # ---- Text-Field Framing  ----
 frame = Frame(appRoot, bg="#0000A0")
 scrollBar = Scrollbar(frame, background="#808080")
-msgsTextField = Listbox(frame, width=98, height=20, bg="#808080", yscrollcommand=scrollBar.set)
+scrollBar_X = Scrollbar(frame)
+msgsTextField = Listbox(frame, width=98, height=20, bg="#808080", yscrollcommand=scrollBar.set,
+                        xscrollcommand=scrollBar_X.set)
 scrollBar.pack(side=RIGHT, fill=Y)
-msgsTextField.pack(side=LEFT, fill=BOTH, pady=3)
+# scrollBar_X.pack(side=BOTTOM, fill=X)
+msgsTextField.pack(side=LEFT, fill=BOTH, pady=2)
+scrollBar.config(command=msgsTextField.yview)
+# scrollBar_X.config(command=msgsTextField.xview)
+
+
 frame.pack()
 
 # ----- User-Entry Field and Send-Button Labeling -----------

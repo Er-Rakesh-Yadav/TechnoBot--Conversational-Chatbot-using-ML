@@ -2,8 +2,6 @@ hi
 hi there !
 Hello!
 Hello!! How can I help you?
-hola
-Hello
 what is your name?
 my name is TechnoBot.
 can you help me?
@@ -55,7 +53,7 @@ who is your creator?
 Rakesh, Shivam and Manish are my creators
 you suck
 #@%^%$%^&*&^&
-how' the weather
+how is the weather
 It's Great in here
 are you a robot
 No I am HAL 9000
