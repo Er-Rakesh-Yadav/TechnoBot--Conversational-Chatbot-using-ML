@@ -2,7 +2,7 @@
 Official Repository for our Mini Project - Conversational Chatbot using ML
 * Standalone Application
 ``
-The objective of this machine learning project was to develop model that will take input from user and respond to it, with more accurate answer. Tkinter and chatterbot module is also included for UI development and training module.
+The objective of this machine learning project was to develop model that will take input from user and respond to it, with more accurate answer. Tkinter and chatterbot module is also included for UI development.
 ``
 
 ![](TechnoBot/img/gig_chatbot.gif)
